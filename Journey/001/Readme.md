@@ -1,6 +1,9 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
+
+#first lab
+
 # New post title here
 
 ## Introduction
